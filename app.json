@@ -7,11 +7,11 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": ""
+            "value": "27662412"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": ""
+            "value": "4a695060ecd737dffa9e92c540b46ed2"
         },
         "WEB_SUPPORT": {
             "description": "if your server is need web service! value = True else value = False",
